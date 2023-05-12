@@ -1,1 +1,1 @@
-# Advance_Data_Science_Bangor
+# Advanced_Data_Science_Bangor
